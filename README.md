@@ -8,7 +8,7 @@ tested with Arduino IDE 1.8.13
 save this batch file to the project root of arduino compiling folder, you can see this folder with IDE and verbose info, for example,   
 ```C:\Users\user0\AppData\Local\Temp\arduino_build_xxxx```  
 
-structure like this usually,  
+folder and structure like this usually,  
 ```
 -- root\ *.elf, this bat file  
    --- skecch \ *.o  
@@ -16,7 +16,7 @@ structure like this usually,
 
 output,
 ```
-   -- root\ %project_name%_elf_dump.txt, %project_name%.asm  
+-- root\ %project_name%_elf_dump.txt, %project_name%.asm  
 ```
 
 batch file,   
