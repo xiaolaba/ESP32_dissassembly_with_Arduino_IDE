@@ -3,8 +3,11 @@
 
 
 this is simple batch file, under windows.  
-tested with Arduino IDE 1.8.13
-save this bat file to the project root of arduino compiling folder, struct like this usually,  
+tested with Arduino IDE 1.8.13  
+
+save this batch file to the project root of arduino compiling folder,  
+
+structure like this usually,  
 
 -- root\ *.elf, this bat file  
    --- skecch \ *.o  
