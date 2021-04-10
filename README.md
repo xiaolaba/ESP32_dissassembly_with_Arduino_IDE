@@ -1,6 +1,10 @@
 # ESP32_dissassembly_with_Arduino_IDE
 .elf and .o to be disassembly, asm and listing will be produced
 
+![esp32_dis.JPG](esp32_dis.JPG)  
+
+
+
 
 this is simple batch file, under windows.  
 tested with Arduino IDE 1.8.13  
