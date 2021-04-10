@@ -1,7 +1,7 @@
 # ESP32_dissassembly_with_Arduino_IDE
 .elf and .o to be disassembly, asm and listing will be produced
 
-![esp32_dis.JPG](esp32_dis.JPG)  
+
 
 
 
@@ -17,11 +17,18 @@ folder and structure like this usually,
 -- root\ *.elf, this bat file  
    --- skecch \ *.o  
 ```
+![esp32_dis.JPG](esp32_dis.JPG)  
+  
+  
 
 output,
 ```
 -- root\ %project_name%_elf_dump.txt, %project_name%.asm  
 ```
+![esp32_dis_done.JPG](esp32_dis_done.JPG)  
+  
+  
+  
 
 batch file,   
 
