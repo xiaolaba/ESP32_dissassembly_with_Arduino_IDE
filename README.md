@@ -5,8 +5,8 @@
 this is simple batch file, under windows.  
 tested with Arduino IDE 1.8.13  
 
-save this batch file to the project root of arduino compiling folder, you can see this folder with IDE and verbose info, for example, 
-C:\Users\user0\AppData\Local\Temp\arduino_build_xxxx
+save this batch file to the project root of arduino compiling folder, you can see this folder with IDE and verbose info, for example,   
+C:\Users\user0\AppData\Local\Temp\arduino_build_xxxx  
 
 structure like this usually,  
 
