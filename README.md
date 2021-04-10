@@ -4,13 +4,13 @@
 
 this is simple batch file, under windows.  
 tested with Arduino IDE 1.8.13
-save this bat file to the project root of arduino compiling folder, struct like this usually,
+save this bat file to the project root of arduino compiling folder, struct like this usually,  
 
--- root\ *.elf, this bat file
-   --- skecch \ *.o
+-- root\ *.elf, this bat file  
+   --- skecch \ *.o  
 
-output,
--- root\ %project_name%_elf_dump.txt, %project_name%.asm
+output,  
+-- root\ %project_name%_elf_dump.txt, %project_name%.asm  
 
 ```
 
